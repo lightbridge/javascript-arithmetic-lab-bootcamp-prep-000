@@ -1,5 +1,5 @@
 function add(){
- return 1000 + 25;
+ number + 5;
 }
 function subtract(){
  return 3 - 2;
