@@ -1,7 +1,7 @@
-var number = 10
+var number = a
 
 function add(){
- number + 5;
+ number + b;
 }
 function subtract(){
  return 3 - 2;
