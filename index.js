@@ -4,10 +4,10 @@ function add(){
 function subtract(){
  return 3 - 2;
 }
-function add(){
+function multiply(){
  return 1 + 2;
 }
-function add(){
+function divide(){
  return 1 + 2;
 }function add(){
  return 1 + 2;
